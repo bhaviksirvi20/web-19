@@ -16,7 +16,7 @@
     height: 150vh;
     width: 100%;
     /* background-color: aqua; */
-    background-image: url(./banner.png);
+    background-image: url(./assets/banner.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,7 +39,7 @@
     height: 10vh;
     width: 20%;
     /* border: 2px solid ; */
-    background-image: url(./logo.png);
+    background-image: url(./assets/logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -148,7 +148,7 @@ a:hover {
     height: 250px;
     width: 250px;
     /* border: 2px solid white; */
-    background-image: url(./5.png);
+    background-image: url(./assets/5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -247,7 +247,7 @@ a:hover {
     height: 90vh;
     width: 45%;
     background-color: black;
-    background-image: url(./about_1.png);
+    background-image: url(./assets/about_1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -297,7 +297,7 @@ a:hover {
     height: 15vh;
     width: 40%;
     /* border: 2px solid ; */
-    background-image: url(./signature.png);
+    background-image: url(./assets/signature.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -323,7 +323,7 @@ a:hover {
     height: 40vh;
     width: 24.5%;
     /* border: 2px solid; */
-    background-image: url(./1\ \(1\).png);
+    background-image: url(./assets/1\ \(1\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -334,7 +334,7 @@ a:hover {
     height: 40vh;
     width: 24.5%;
     /* border: 2px solid; */
-    background-image: url(./2.png);
+    background-image: url(./assets/2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -344,7 +344,7 @@ a:hover {
     height: 40vh;
     width: 24.5%;
     /* border: 2px solid; */
-    background-image: url(./3.png);
+    background-image: url(./assets/3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -354,7 +354,7 @@ a:hover {
     height: 40vh;
     width: 24.5%;
     /* border: 2px solid; */
-    background-image: url(./4.png);
+    background-image: url(./assets/4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -477,7 +477,7 @@ a:hover {
     height: 250px;
     width: 250px;
     /* border: 2px solid white; */
-    background-image: url(./1.png);
+    background-image: url(./assets/1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -487,7 +487,7 @@ a:hover {
     height: 250px;
     width: 250px;
     /* border: 2px solid white; */
-    background-image: url(./2\ \(1\).png);
+    background-image: url(./assets/2\ \(1\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -497,7 +497,7 @@ a:hover {
     height: 250px;
     width: 250px;
     /* border: 2px solid white; */
-    background-image: url(./3\ \(1\).png);
+    background-image: url(./assets/3\ \(1\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -636,7 +636,7 @@ a:hover {
     height: 60vh;
     width: 100%;
     /* border: 2px solid; */
-    background-image: url(./1\ \(2\).png);
+    background-image: url(./assets/1\ \(2\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -665,7 +665,7 @@ a:hover {
     height: 60vh;
     width: 100%;
     /* border: 2px solid; */
-    background-image: url(./2\ \(2\).png);
+    background-image: url(./assets/2\ \(2\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -714,7 +714,7 @@ a:hover {
     height: 92vh;
     width: 100%;
     /* border: 2px solid; */
-    background-image: url(./3\ \(2\).png);
+    background-image: url(./assets/3\ \(2\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -743,7 +743,7 @@ a:hover {
     height: 92vh;
     width: 100%;
     /* border: 2px solid; */
-    background-image: url(./4\ \(2\).png);
+    background-image: url(./assets/4\ \(2\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -782,7 +782,7 @@ a:hover {
     height: 92vh;
     width: 100%;
     /* border: 2px solid; */
-    background-image: url(./5.png);
+    background-image: url(./assets/5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -819,7 +819,7 @@ a:hover {
     height: 100vh;
     width: 100%;
     /* border: 2px solid black; */
-    background-image: url(./contact.png);
+    background-image: url(./assets/contact.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
